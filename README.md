@@ -2,6 +2,7 @@
 
 
 <img width="677" alt="image" src="https://github.com/Rafael-ZP/LLM_Project_Using_LangChain_and_GooglePalm/assets/104310982/ff11ded7-eabe-4afe-b9dd-c811a8408dff">
+
 # LLM-Project-End-to-End-LLM-Project-Using-LangChain-Google-Palm
 
 This repository contains code for an end-to-end question-answering system built using LangChain, Google Palm LLM (Large Language Model), FAISS (Facebook AI Similarity Search) and Vector bases
