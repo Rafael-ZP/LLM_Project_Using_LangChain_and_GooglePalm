@@ -1,7 +1,8 @@
 # Question Answering System with FAISS and Hugging Face Models
 
 
-![image](https://github.com/Neerajjv/LLM-Project-End-to-End-LLM-Project-Using-LangChain-Google-Palm/assets/154986859/3eb1d776-d902-43c7-b79a-c3be744337f9)# LLM-Project-End-to-End-LLM-Project-Using-LangChain-Google-Palm
+<img width="677" alt="image" src="https://github.com/Rafael-ZP/LLM_Project_Using_LangChain_and_GooglePalm/assets/104310982/ff11ded7-eabe-4afe-b9dd-c811a8408dff">
+# LLM-Project-End-to-End-LLM-Project-Using-LangChain-Google-Palm
 
 This repository contains code for an end-to-end question-answering system built using LangChain, Google Palm LLM (Large Language Model), FAISS (Facebook AI Similarity Search) and Vector bases
 
@@ -26,7 +27,7 @@ This project is an example of an end-to-end language model (LLM) project that in
 
 1. Prepare your dataset:
    - Ensure your dataset is in CSV format with columns "Question" and "Answer".
-   - Save your dataset as `data.csv` in the project directory.
+   - Save your dataset as you wish in the project directory.
 
 2. Run the script to create the vector database:
    ```bash
