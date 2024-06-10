@@ -9,7 +9,7 @@ This repository contains code for an end-to-end question-answering system built 
 
 ## Overview
 
-The project is an end-to-end question-answering system leveraging LangChain for document loading, Google Palm LLM for language understanding, FAISS for vector indexing, and Hugging Face's pre-trained models for efficient retrieval of answers from a dataset.
+The project is an end-to-end question-answering system leveraging LangChain for document loading, Google Palm LLM for language understanding, FAISS for vector indexing, and Hugging Face's pre-trained models for efficient retrieval of answers from the dataset.
 
 ## LM Project | End to End LLM Project Using LangChain, Google Palm
 
